@@ -1,7 +1,7 @@
 # beavisulochka
 hi, this my website
 
-[drawings](beavisulochka.github.io/drawings/empty)
+[drawings](beavisulochka.github.io/drawings/)
 
 [instagram](https://www.instagram.com/beavisulochka/)
 
